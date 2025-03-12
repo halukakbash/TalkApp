@@ -36,4 +36,5 @@
 ## Gereksinim Dağılımları
 
 1. [Eray Özdemir'in Gereksinimleri](https://github.com/halukakbash/TalkApp/blob/main/Eray%20%C3%96zdemir%20-%20Gereksinim.md)
+2. [Haluk Akbaş'ın Gereksinimleri](https://github.com/halukakbash/TalkApp/blob/main/Haluk%20Akba%C5%9F%20-%20Gereksinim.md#haluk-akba%C5%9F%C4%B1n-gereksinimleri)
 
