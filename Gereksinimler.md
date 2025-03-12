@@ -32,3 +32,8 @@
 
 16. Kullanıcı Dil Seviyesine Göre Filtreleme  -(Haluk)
 
+
+## Gereksinim Dağılımları
+
+1. [Eray Özdemir'in Gereksinimleri](Eray Özdemir - Gereksinim.md)
+
