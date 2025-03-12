@@ -25,11 +25,19 @@ Kullanıcı dostu arayüzü ve etkileşimli özellikleri sayesinde **TalkApp**, 
 - **Haluk Akbaş**  
 - **Eray Özdemir**
 
-1.[Gereksinim Analizi](Gereksinimler.md)
-2.Durum Diyagramı
-3.Durum Senaryoları
-4.Front-End
-5.Back-End
-6.Video Sunum
+-------------------------------------------------------------------------
+
+1. [Gereksinim Analizi](Gereksinimler.md)
+
+2. Durum Diyagramı
+
+3. Durum Senaryoları
+
+4. Front-End
+
+5. Back-End
+
+6. Video Sunum
+
 
 
