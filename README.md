@@ -25,5 +25,6 @@ Kullanıcı dostu arayüzü ve etkileşimli özellikleri sayesinde **TalkApp**, 
 - **Haluk Akbaş**  
 - **Eray Özdemir**
 
+1.[Gereksinim Analizi](Gereksinimler.md)
 
 
