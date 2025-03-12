@@ -35,5 +35,5 @@
 
 ## Gereksinim Dağılımları
 
-1. [Eray Özdemir'in Gereksinimleri](Eray Özdemir - Gereksinim.md)
+1. [Eray Özdemir'in Gereksinimleri](https://github.com/halukakbash/TalkApp/blob/main/Eray%20%C3%96zdemir%20-%20Gereksinim.md)
 
