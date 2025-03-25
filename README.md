@@ -29,7 +29,7 @@ Kullanıcı dostu arayüzü ve etkileşimli özellikleri sayesinde **TalkApp**, 
 
 1. [Gereksinim Analizi](Gereksinimler.md)
 
-2. Durum Diyagramı
+2. [Durum Diyagramı](https://github.com/halukakbash/TalkApp/blob/main/Diyagram.png)
 
 3. Durum Senaryoları
 
