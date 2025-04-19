@@ -20,7 +20,7 @@ Bu bölümde, geliştiriciler tarafından kaydedilen kullanıcı emülatör vide
 
 ### 👨‍💻 Haluk Akbaş'ın Kullanıcı Emülatör Videosu
 
-📹 [Haluk'un videosunu buradan izleyin]()
+📹 [Haluk'un videosunu buradan izleyin](https://www.youtube.com/watch?v=PcivKTHGCmg&t=3s&ab_channel=halukakbash)
 
 > Gerçek zamanlı sesli sohbet, quiz uygulaması, giriş-çıkış, kullanıcı filtreleme ve favori kullanıcı yönetimi gibi özelliklerin kullanımını içermektedir.
 
