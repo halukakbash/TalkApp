@@ -12,7 +12,7 @@ Bu bölümde, geliştiriciler tarafından kaydedilen kullanıcı emülatör vide
 
 ### 👨‍💻 Eray Özdemir'in Kullanıcı Emülatör Videosu
 
-📹 [Eray'ın videosunu buradan izleyin]()
+📹 [Eray'ın videosunu buradan izleyin](https://www.youtube.com/watch?v=Y72MEibr0NQ)
 
 > Uygulama arayüzünde kullanıcı kaydı, mesajlaşma, profil yönetimi, puanlama ve konuşma geçmişi gibi özelliklerin kullanımını içermektedir.
 
