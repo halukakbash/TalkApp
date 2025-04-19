@@ -1,4 +1,4 @@
-### 🧑‍💻 Eray Özdemir – Front-End
+### 🧑‍💻 [Eray Özdemir – Front-End](https://github.com/halukakbash/TalkApp/blob/main/Eray%20%C3%96zdemir%20-%20FRONT%20END)
 
 ----------------------------------------------------------------------------------
 
