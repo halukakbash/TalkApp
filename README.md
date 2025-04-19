@@ -33,7 +33,7 @@ Kullanıcı dostu arayüzü ve etkileşimli özellikleri sayesinde **TalkApp**, 
 
 3. [Durum Senaryoları](https://github.com/halukakbash/TalkApp/blob/main/Durum-Senaryolar%C4%B1.md)
 
-4. [Front-End](https://github.com/halukakbash/TalkApp/blob/main/Front-End%20Em%C3%BClat%C3%B6r%20Video)
+4. [Front-End]()
 
 5. Back-End
 
