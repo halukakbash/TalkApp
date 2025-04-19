@@ -1,3 +1,7 @@
+### 🧑‍💻 Eray Özdemir – Front-End
+
+----------------------------------------------------------------------------------
+
 ## 🎬 Kullanıcı Emülatör Videoları
 
 Bu bölümde, geliştiriciler tarafından kaydedilen kullanıcı emülatör videolarına ulaşabilirsiniz. Videolarda uygulamanın kullanıcı arayüzü ve temel işlevlerinin gerçek zamanlı kullanımı gösterilmektedir.
