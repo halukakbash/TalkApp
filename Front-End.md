@@ -28,3 +28,11 @@
 - Kullanıcıyı favorilerden çıkarma
 - Kullanıcı bilgilerini görüntüleme
 - Dil seviyesine göre kullanıcı filtreleme
+
+---------------------------------------------------------
+
+## 🖼️ Uygulama Logosu
+
+<p align="center">
+  <img src="TalkApp.png" alt="Uygulama Logosu" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</p>
