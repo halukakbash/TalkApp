@@ -1,4 +1,4 @@
-### 🧑‍💻 "Eray Özdemir" --> [Front-End Codes]()
+### 🧑‍💻 "Eray Özdemir" --> [Front-End Codes](https://github.com/halukakbash/TalkApp/tree/main/Eray%20%C3%96zdemir%20FRONT-END%20KODLAR)
 
 ### 🧑‍💻 "Haluk Akbaş" --> [Front-End Codes]()
 
