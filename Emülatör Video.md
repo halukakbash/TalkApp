@@ -1,6 +1,6 @@
-### 🧑‍💻 "Eray Özdemir" --> [Front-End Hakkında](https://github.com/halukakbash/TalkApp/blob/main/Eray%20%C3%96zdemir%20-%20FRONT%20END)
+### 🧑‍💻 "Eray Özdemir" --> [Front-End Codes]()
 
-### 🧑‍💻 "Haluk Akbaş" --> [Front-End Hakkında](https://github.com/halukakbash/TalkApp/blob/main/Haluk%20Akba%C5%9F%20-%20FRONT%20END)
+### 🧑‍💻 "Haluk Akbaş" --> [Front-End Codes]()
 
 ----------------------------------------------------------------------------------
 
