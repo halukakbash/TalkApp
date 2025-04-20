@@ -29,14 +29,14 @@ class ProfileViewModel : ViewModel() {
                 val userId = auth.currentUser?.uid ?: throw Exception("User not authenticated")
                 var profilePhotoUrl = ""
 
-                // Upload photo if provided
+                
                 if (photoUri != null) {
                     val photoRef = storage.reference.child("profile_photos/$userId")
                     photoRef.putFile(photoUri).await()
                     profilePhotoUrl = photoRef.downloadUrl.await().toString()
                 }
 
-                // Update user profile in Firestore
+                
                 val userUpdates = hashMapOf(
                     "age" to age,
                     "country" to country,
@@ -82,7 +82,7 @@ class ProfileViewModel : ViewModel() {
 
     fun signOut() {
         auth.signOut()
-        // You might want to navigate back to login screen here
+       
     }
 
     fun deleteAccount(onComplete: (Boolean) -> Unit) {
