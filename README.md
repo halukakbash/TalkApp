@@ -25,7 +25,7 @@ Kullanıcı dostu arayüzü ve etkileşimli özellikleri sayesinde **TalkApp**, 
 - **Haluk Akbaş**  
 - **Eray Özdemir**
 
---> CI/CD Deneme!!
+--> CI/CD Deneme!
 
 -------------------------------------------------------------------------
 
